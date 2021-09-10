@@ -12,6 +12,7 @@ App has a current clock and the time blocks in the calendar will change colors d
 TO CONTRIBUTE: Projects sits in the following github repository: https://josemartin357.github.io/password-generator/
 
 Examples:
+
 ![calendar-sample-1](https://user-images.githubusercontent.com/83382332/132788097-9281a168-e7e1-425c-8cfa-195564a8eecb.JPG)
 
 ![calendar-sample-2](https://user-images.githubusercontent.com/83382332/132788126-25b29725-4d1f-4b73-be40-25915eab404d.JPG)
